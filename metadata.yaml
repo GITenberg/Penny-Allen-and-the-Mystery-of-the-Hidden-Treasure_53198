@@ -1,0 +1,29 @@
+_repo: Penny-Allen-and-the-Mystery-of-the-Hidden-Treasure_53198
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McKechnie, Jean L. (Jean Lyttleton)
+    alias: McKechnie, Jean Lyttleton
+    birthdate: 1925
+    gutenberg_agent_id: '47260'
+    url: http://www.gutenberg.org/2009/agents/47260
+description: ''
+gutenberg_issued: '2016-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcsh 'Vacation homes -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcsh 'Michigan -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Penny Allen and the Mystery of the Hidden Treasure
+url: http://www.gutenberg.org/ebooks/53198
